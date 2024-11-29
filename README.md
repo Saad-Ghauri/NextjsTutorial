@@ -1,2 +1,3 @@
 # NextjsTutorial
+
 Next js tutorial
